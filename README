@@ -1,0 +1,30 @@
+# Logistic Regression
+
+# Objective
+Build a binary classification model using Logistic Regression.
+
+# Dataset
+Breast Cancer Wisconsin Dataset
+link - https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data
+
+# Steps Performed
+- Data Cleaning
+- Feature Scaling
+- Train-Test Split
+- Model Training
+- Evaluation (Confusion Matrix, ROC-AUC)
+
+# Results
+- High Accuracy
+- Strong ROC-AUC Score
+
+# Tools Used
+- Python
+- Pandas
+- Scikit-learn
+- Matplotlib
+- Seaborn
+
+# Outputs
+- Confusion Matrix
+- ROC Curve
